@@ -141,3 +141,4 @@ If `resize2fs` complains about them, restore the backup with
 - `df -Th` report filesystem disk usage;
 - `lsblk` list block devices;
 - `cat /etc/fstab` see (or modify) how block devices are mounted.
+- `findmnt` similar to `lsblk`, not sure of difference.
